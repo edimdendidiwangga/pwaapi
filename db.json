@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Hudsonian godwit","category":"Mauv"},
+{"id":2,"name":"American badger","category":"Goldenrod"},
+{"id":3,"name":"Rhea, common","category":"Indigo"},
+{"id":4,"name":"Deer, barasingha","category":"Yellow"},
+{"id":5,"name":"European wild cat","category":"Violet"},
+{"id":6,"name":"Laughing kookaburra","category":"Maroon"},
+{"id":7,"name":"Striped hyena","category":"Yellow"},
+{"id":8,"name":"Possum, ring-tailed","category":"Mauv"},
+{"id":9,"name":"Otter, brazilian","category":"Fuscia"},
+{"id":10,"name":"African darter","category":"Aquamarine"},
+{"id":11,"name":"Flamingo, roseat","category":"Aquamarine"},
+{"id":12,"name":"Common genet","category":"Khaki"},
+{"id":13,"name":"Goose, cape barren","category":"Maroon"},
+{"id":14,"name":"Squirrel glider","category":"Blue"},
+{"id":15,"name":"Tern, arctic","category":"Puce"},
+{"id":16,"name":"Squirrel, eurasian red","category":"Yellow"},
+{"id":17,"name":"Southern brown bandicoot","category":"Pink"},
+{"id":18,"name":"Seal, common","category":"Goldenrod"},
+{"id":19,"name":"Gnu, brindled","category":"Khaki"},
+{"id":20,"name":"Blesbok","category":"Maroon"}
+]
+}
